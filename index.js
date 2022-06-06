@@ -33,7 +33,7 @@ if(num1>num2){
 }
 //if player2 wins
 else if(num2>num1){
-  document.querySelector("h1").textContent= "Player2 wins!🚩"
+  document.querySelector("h1").textContent= "Player 2 wins!🚩"
 }
 //if its a draw
 else{
